@@ -1,0 +1,19 @@
+{
+	"id": "copycat",
+	"name": "Copycat",
+	"display_name": "Copycat",
+	"author": [
+		"ellie"
+	],
+	"description": "very unhinged \n i copied all of the code from other mods lol",
+	"prefix": "copycat",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "#FFA0DC",
+	"badge_text_colour": "#FFFFFF",
+	"version": "0.0.1~",
+	"dependencies": [
+		"Steamodded (>=1.0.0~)",
+		"Balatro (>=1.0.1o)"
+	]
+}
